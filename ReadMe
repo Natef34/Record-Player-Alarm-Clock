@@ -1,0 +1,1 @@
+This is a Raspberry Pi setup I made using AdaFruit's stepper motor hat to control (you guessed it) a stepper motor on a schedule. In this case, I have used it to make the motor press 'play' on my record player at whatever time of day I would like, so I can use it as an alarm clock.
